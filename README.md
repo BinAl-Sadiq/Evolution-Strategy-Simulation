@@ -1,8 +1,7 @@
 # Evolution-Strategy-Simulation
-This project is a simulation of an Evolution Strategy (ES) applied to a population of agents that learn to survive in a Flappy Bird-like environment.
+This Unity project is a simulation of an Evolution Strategy (ES) applied to a population of agents that learn to survive in a Flappy Bird-like environment.
 
 Each agent is represented by a simple neural network that decides whether to move up or down to avoid obstacles. Over generations, the population evolves and the most successful agents reproduce and pass on their weights with slight mutations, leading to improved performance over time.
-
 
 https://github.com/user-attachments/assets/67276604-f36b-4842-9045-93baf8744650
 
